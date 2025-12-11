@@ -80,12 +80,8 @@ All visuals are automatically exported as jpg files from html just for convinien
 5. Comeback leaderboard (avg rating after − avg rating before)
 
 Run locally: https://iada-201-1000068---dibyajyoti-swain-lwsnv92ojmhkwbvnfb52ki.streamlit.app/  
-```
-## **👤 Student Details**
+
+THANKYOU 
 
 ```
-Student Name: Dibyajyoti Swain
-CRS: Artificial Intelligence
-Assessment: Mathematics for AI-II Summative Assessment
-Scenario: Scenario 1 — Injury Impact Analysis
-```
+
