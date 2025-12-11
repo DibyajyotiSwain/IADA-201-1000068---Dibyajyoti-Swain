@@ -16,7 +16,7 @@ import traceback
 st.set_page_config(page_title="Player Injuries & Team Performance", layout="wide")
 
 # ---------- CONFIG: single fixed csv path ----------
-CSV_PATH = r"E:\XII IBCP\AI\Maths\data\player_injuries_impact_cleaned.csv"
+CSV_PATH = ("player_injuries_impact_cleaned.csv")
 
 # ---------- helpers ----------
 def normalize_columns(df: pd.DataFrame) -> pd.DataFrame:
@@ -198,3 +198,4 @@ else:
 
 st.markdown("---")
 st.caption("If a chart is empty, check the 'Column list (normalized)' above and the CSV content. Ask me to map any different column name if needed.")
+
