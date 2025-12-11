@@ -51,17 +51,16 @@ The EDA script produces the following outputs in **eda_outputs/**:
 4. **Age vs Performance Drop** (Scatter + trendline)
 5. **Comeback Leaderboard** (CSV + HTML)
 
-All visuals are automatically exported as HTML files.
-[Uploading 1_top10_perf_drop.html…]()
-[Uploading 2_before_after _Callum_Wilson.html…]()
-[Uploading  3_heatmap_month_team.html…]()
-[Uploading 4_scatter_age_perf_drop.html…]()
-[Uploading 5_leaderboard_top_improvements.html…]()
-Run with:
-```
-python step3_eda_fixed.py
-```
----
+All visuals are automatically exported as jpg files from html just for convinience.
+![5_leaderboard_top_improvements](https://github.com/user-attachments/assets/c478b2f1-a810-4d98-8bae-187ff9665d59)
+
+![2_before_after_Callum_Wilson](https://github.com/user-attachments/assets/72dc953c-4b81-4f1e-8c60-1399df9ccafd)
+
+![3_heatmap_month_team](https://github.com/user-attachments/assets/1dc830f3-73a3-46a9-b513-65d870849cba)
+
+![4_scatter_age_perf_drop](https://github.com/user-attachments/assets/606d3a2a-2957-476c-a532-fe1007be9961)
+
+![1_top10_perf_drop](https://github.com/user-attachments/assets/26f308ab-1bf2-4f75-bbd7-5835a6dc34ca)
 
 ## **🖥️ Streamlit Dashboard (app.py)**
 
