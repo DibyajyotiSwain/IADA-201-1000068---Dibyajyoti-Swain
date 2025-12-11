@@ -51,7 +51,7 @@ The EDA script produces the following outputs in **eda_outputs/**:
 4. **Age vs Performance Drop** (Scatter + trendline)
 5. **Comeback Leaderboard** (CSV + HTML)
 
-All visuals are automatically exported as jpg files from html just for convinience.
+All visuals are automatically exported as jpg files from html for easy visuality and convinience.
 ![5_leaderboard_top_improvements](https://github.com/user-attachments/assets/c478b2f1-a810-4d98-8bae-187ff9665d59)
 
 ![2_before_after_Callum_Wilson](https://github.com/user-attachments/assets/72dc953c-4b81-4f1e-8c60-1399df9ccafd)
