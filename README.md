@@ -80,9 +80,7 @@ python step3_eda_fixed.py
 4. Age vs performance drop / Age vs rating
 5. Comeback leaderboard (avg rating after − avg rating before)
 
-Run locally:
-```
-streamlit run app.py
+Run locally: https://iada-201-1000068---dibyajyoti-swain-lwsnv92ojmhkwbvnfb52ki.streamlit.app/  
 ```
 ## **👤 Student Details**
 
